@@ -193,15 +193,35 @@ Thanks for being Here. Maybe you need connect me in my others channels.
 
 <li> </li>
 
-<table>
 <li><a href="hhttps://solscan.io/address/HPs8A1WiRypdPwFBG32KaA9qHLt4VDKJ7sWUF5HKoicP"> My Token-Solana </a> </li>
 <li><a href="https://github.com/solana-labs/token-list/pull/26565">My Token -Solana </a> </li>
 <li><a href="https://rinkeby.etherscan.io/token/0xae45c67b1b09fbca2ef344c696ad283d1c11076b?a=0x88e2c1951ef3e0d5ec4a0c20ccf2f3ea2148f755">MyTocken-ETH-TEST</a> </li>
 
+
+<table>
+
+  <tr>
+    <th><a href="https://www.blockchain.com/explorer">BTC - Explorer </a></th>
+    <th><a href="https://blockchair.com/es/monero">MONERO - Explorer </a></th>
+    <th><a href="https://etherscan.io/"> ETH - Explorer </a></th>
+    <th><a href="https://bscscan.com/txs"> BNB - Explorer </a></th>
+    <th><a href="https://tronscan.org/#/"> TRON - Explorer </a></th>
+    <th><a href="https://solscan.io/"> SOL  - Explorer </a></th>
+    <th><a href="https://explorer.polkascan.io/"> Polkadot  - Explorer </a></th>
+    <th><a href="https://explorer.cardano.org/en"> Cardano  - Explorer </a></th>
+    <th><a href="https://polygonscan.com/"> Polygon  - Explorer </a></th>
+    <th><a href="https://finder.terra.money/columbus-4/"> Terra - Explorer </a></th>
+  </tr>
+  
 </table>
 
 
 <table>
+  <tr>
+    <th> Blockchain  </th>
+    <th> Simbol</th>
+    <th> Explorer </th>
+  </tr>
   <tr>
     <td> BTC   </td>
     <td> ETH </td>
@@ -265,7 +285,8 @@ Thanks for being Here. Maybe you need connect me in my others channels.
     <th><a href="https://bloks.io/"> Eos </th>
     <th><a href="https://ftmscan.com/"> Fantom </th>
     <th><a href="https://finder.terra.money/columbus-4/"> Terra </th>
-    <th><a href="https://bttcscan.com/"> Bttcscan </th>
+    <th><a href="https://hecoinfo.com/"> Huobi </th>
+    <th><a href="https://scan.hecochain.com/"> Bttcscan </th>
   </tr>
 </table>
 
